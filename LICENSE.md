@@ -1,4 +1,4 @@
-# 
+# advanced GitKraken for PC | GitKraken for Windows Integration | conflict-resolution + SSH-key-management offers the most advanced GitKraken for PC | GitKraken for Windows
 
 
 
